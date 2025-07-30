@@ -25,7 +25,7 @@ This project demonstrates an **end-to-end deep learning pipeline** for **sentime
 
 ## 🎯 Problem Statement
 
-> Classify IMDB movie reviews as **positive** or **negative** using a sequential deep learning model (Simple RNN). The model is trained on tokenized reviews and evaluated on a separate test set.
+Classify IMDB movie reviews as **positive** or **negative** using a sequential deep learning model (Simple RNN). The model is trained on tokenized reviews and evaluated on a separate test set.
 
 ---
 
